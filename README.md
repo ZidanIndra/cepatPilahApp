@@ -4,7 +4,7 @@ Berikut adalah contoh **README.md** untuk repositori GitHub Anda. File ini membe
 
 # **CepatPilahApp**
 
-![CepatPilahApp Logo](![cepatPilah](https://github.com/user-attachments/assets/4034fd84-c889-4222-b9cf-26a3dba93f1d)
+![CepatPilahApp Logo](https://github.com/user-attachments/assets/4034fd84-c889-4222-b9cf-26a3dba93f1d)
 )
 
 **CepatPilahApp** adalah aplikasi desktop sederhana yang dirancang untuk membantu Anda mengelompokkan foto ke dalam folder-folder tertentu dengan cepat dan mudah. Aplikasi ini sangat cocok untuk fotografer, desainer, atau siapa saja yang ingin mengorganisir koleksi gambar mereka secara efisien.
